@@ -52,3 +52,5 @@ wrapper.sh
 *.sh
 
 .venv
+
+!hardware/stickV2/AssemblyInstruction/assets/*.png
